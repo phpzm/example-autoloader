@@ -1,6 +1,8 @@
 <?php
 
-class MyClass
+namespace MyNamespace;
+
+class MyOtherClass
 {
     public function myMethod()
     {
